@@ -1,0 +1,8 @@
+model_type,architecture,training_setting,test_accuracy_percent,weighted_f1_percent,netscore,parameters_million,deployment_platform
+Baseline,MobileNetV2,Supervised single-frame learning,98.1,98.1,184.5,2.3,Android smartphone
+Temporal,MoViNet 3D CNN,Supervised sequential-frame learning,98.0,97.9,165.2,4.0,Cloud/GPU
+Temporal,MobileNetV2+LSTM,Supervised sequential-frame learning,97.0,,130.8,4.0,Cloud/GPU
+Temporal,MobileViT+LSTM,Supervised sequential-frame learning,96.8,,153.6,3.4,Cloud/GPU
+Semi-supervised,MobileViT-XS,FixMatch with reduced labeled data,98.5,,199.8,1.9,Android smartphone
+Edge device,Distilled CNN,Teacher-student compression and TFLite Micro,96.8,,,0.225,Raspberry Pi Pico W
+

@@ -1,0 +1,13 @@
+field_name,data_type,required,description,example_value
+image_id,string,yes,De-identified image identifier.,img_000001
+building_id_hash,string,yes,Hashed building identifier; no real address or site name is included.,bldg_a13f
+sequence_id_hash,string,yes,Hashed continuous inspection sequence identifier.,seq_02b7
+frame_index,integer,yes,Frame number within the inspection sequence.,125
+capture_fps,number,yes,Frame sampling rate used during inspection capture.,5
+image_width,integer,yes,Native or processed image width in pixels.,1280
+image_height,integer,yes,Native or processed image height in pixels.,720
+class_label,string,yes,One of BFP, A-ST, STZ, or E-ST.,STZ
+split,string,yes,Scene-based data partition; one of train, validation, or test.,train
+device_family,string,no,General capture device family after de-identification.,Android smartphone
+notes,string,no,Optional non-identifying annotation notes.,motion_blur_removed
+

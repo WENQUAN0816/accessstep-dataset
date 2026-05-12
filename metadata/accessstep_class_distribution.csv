@@ -1,0 +1,6 @@
+class_label,class_name,description,estimated_image_count,estimated_percentage
+BFP,Barrier-Free Passage,"Floor area with no visible steps, thresholds, or elevation changes; unobstructed passage zone.",436800,84
+A-ST,Approaching Step/Threshold,"Step or threshold visible; approaching floor area is approximately 1.5 times or greater than the barrier surface.",20800,4
+STZ,Step/Threshold Zone,"One or more steps or thresholds present; neither approaching nor exiting floor dominates the frame.",52000,10
+E-ST,Exiting Step/Threshold,"Step or threshold visible; exiting floor area is larger than the barrier surface and the last step surface remains visible.",10400,2
+

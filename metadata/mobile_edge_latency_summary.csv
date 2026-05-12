@@ -1,0 +1,7 @@
+deployment_target,hardware_or_runtime,input_resolution,model_format,average_inference_latency,latency_unit,notes
+Smartphone,Huawei P40 Pro with NNAPI delegate,224x224,TFLite float32,3.2,ms,Fastest mobile result reported in manuscript.
+Smartphone,Samsung Galaxy S20 with GPU delegate,224x224,TFLite,3.8,ms,Representative GPU-backed mobile inference result.
+Smartphone,OPPO Find X3 with GPU delegate,224x224,TFLite,4.1,ms,Representative GPU-backed mobile inference result.
+Smartphone,Xiaomi Mi 10 CPU single-thread,224x224,TFLite,14.7,ms,Oldest tested smartphone remained above real-time processing requirements.
+Edge device,Raspberry Pi Pico W with ArduCam HM0360,96x96,TFLite Micro int8,1.6,s,Compact inspection device result reported in manuscript.
+

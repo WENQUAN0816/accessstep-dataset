@@ -1,0 +1,41 @@
+{
+  "title": "AccessStep Dataset Public Data Package for AccessStairNet",
+  "upload_type": "dataset",
+  "description": "Public de-identified data package supporting the manuscript AccessStairNet: A Mobile Deep Learning Inspection Tool for Human-Centered Accessibility Assessment of Steps and Thresholds in Elderly Home Environments. The package includes annotation schema, aggregate class distribution, model-performance summary, and deployment latency summary. Raw images from private elderly residential environments are not included.",
+  "creators": [
+    {
+      "name": "Quan, Wen",
+      "affiliation": "Henan Industry and Trade Vocational College; Universiti Sains Malaysia",
+      "orcid": "0009-0005-3975-8104"
+    },
+    {
+      "name": "Ismail, Mazran",
+      "affiliation": "Universiti Sains Malaysia"
+    },
+    {
+      "name": "Abdul Nasir, Muhammad Hafeez",
+      "affiliation": "Universiti Sains Malaysia",
+      "orcid": "0000-0002-7057-3475"
+    }
+  ],
+  "keywords": [
+    "AccessStairNet",
+    "AccessStep Dataset",
+    "elderly home environment",
+    "accessibility assessment",
+    "step detection",
+    "threshold detection",
+    "deep learning",
+    "mobile inspection"
+  ],
+  "license": "cc-by-4.0",
+  "publication_date": "2026-05-13",
+  "related_identifiers": [
+    {
+      "identifier": "263362300",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ]
+}
+
