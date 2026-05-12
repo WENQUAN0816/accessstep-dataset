@@ -19,19 +19,12 @@ Journal: International Journal of Human-Computer Interaction
 
 The full raw image collection was captured in private elderly residential environments. The raw images are therefore not publicly distributed because they may reveal private indoor spaces, layouts, possessions, and other potentially identifying contextual information.
 
-This public package provides the de-identified supporting data required to interpret and reproduce the manuscript-level analyses: annotation codebook, class definitions, aggregate distribution, model-performance summary, and deployment summary. A DOI-bearing archive should be created through Zenodo, OSF, Figshare, Mendeley Data, Harvard Dataverse, or another recognized data repository before journal resubmission.
+This public package provides the de-identified supporting data required to interpret and reproduce the manuscript-level analyses: annotation codebook, class definitions, aggregate distribution, model-performance summary, and deployment summary. The archived public dataset is available through Zenodo at <https://doi.org/10.5281/zenodo.20142824>.
 
 ## Recommended Repository For Journal Resubmission
 
-Taylor & Francis recommends repositories that provide persistent identifiers, preferably DOI, and long-term preservation. GitHub is useful as a code/data mirror, but the final Data Availability Statement should preferably cite a Zenodo, OSF, Figshare, Mendeley Data, Dryad, or Dataverse DOI/URL.
-
-Recommended final workflow:
-
-1. Upload this folder as a dataset package to Zenodo, OSF, Figshare, Mendeley Data, Harvard Dataverse, or a relevant institutional repository.
-2. Reserve or publish the DOI.
-3. Replace the GitHub URL in the manuscript and Taylor & Francis portal field with the DOI or repository landing-page URL.
+Taylor & Francis recommends repositories that provide persistent identifiers, preferably DOI, and long-term preservation. GitHub is useful as a code/data mirror, but the final Data Availability Statement should cite the Zenodo DOI: <https://doi.org/10.5281/zenodo.20142824>.
 
 ## Suggested Citation
 
-Quan, W., Ismail, M., & Abdul Nasir, M. H. (2026). AccessStep Dataset Public Data Package for AccessStairNet. Zenodo/OSF/Figshare. DOI to be assigned.
-
+Quan, W., Ismail, M., & Abdul Nasir, M. H. (2026). AccessStep Dataset Public Data Package for AccessStairNet (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20142824
