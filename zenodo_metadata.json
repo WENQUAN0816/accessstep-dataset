@@ -29,8 +29,11 @@
     "mobile inspection"
   ],
   "license": "cc-by-4.0",
-  "doi": "10.5281/zenodo.20142824",
-  "doi_url": "https://doi.org/10.5281/zenodo.20142824",
+  "version": "v1.0.1",
+  "doi": "10.5281/zenodo.20151475",
+  "doi_url": "https://doi.org/10.5281/zenodo.20151475",
+  "conceptdoi": "10.5281/zenodo.20142823",
+  "conceptdoi_url": "https://doi.org/10.5281/zenodo.20142823",
   "publication_date": "2026-05-13",
   "related_identifiers": [
     {
